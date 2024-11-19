@@ -1,8 +1,2 @@
 # More-Coffee
 
-tasks:
-  - init: npm install
-    command: npm start
-ports:
-  - port: 3000
-    onOpen: open-preview
