@@ -18,8 +18,4 @@ Seja você iniciante ou um programador experiente em busca de praticar mais, est
 
 ---
 
-## 🛠️ Ferramentas e Tecnologias
-- **Linguagem:** ![Java Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.rocketseat.com.br%2Fjava-um-guia-sobre-vetores%2F&psig=AOvVaw2QQDbcVVAn0oiX3EpjEH42&ust=1732123111295000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMD62Mjz6IkDFQAAAAAdAAAAABAE)
-
----
 
