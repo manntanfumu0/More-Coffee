@@ -12,7 +12,7 @@ Seja você iniciante ou um programador experiente em busca de praticar mais, est
 
 ## 🚀 Objetivos
 - 📖 Aprender sintaxe e boas práticas de Java.
-- 🔍 Explorar conceitos ao mais complexos como Programação Orientada a Objetos (POO).
+- 🔍 Explorar conceitos básicos aos mais complexos como Programação Orientada a Objetos (POO).
 - 🧪 Criar e testar mini-projetos para consolidar o aprendizado.
 - 🍵 *E claro, tomar muito café durante o processo!*
 
